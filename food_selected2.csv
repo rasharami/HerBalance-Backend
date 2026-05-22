@@ -1,0 +1,79 @@
+Category,Description,Nutrient Data Bank Number,Data.Carbohydrate,Data.Cholesterol,Data.Fiber,Data.Protein,Data.Sugar Total,Data.Fat.Monosaturated Fat,Data.Fat.Polysaturated Fat,Data.Fat.Saturated Fat,Data.Fat.Total Lipid,Data.Major Minerals.Calcium,Data.Major Minerals.Copper,Data.Major Minerals.Iron,Data.Major Minerals.Magnesium,Data.Major Minerals.Phosphorus,Data.Major Minerals.Potassium,Data.Major Minerals.Sodium,Data.Major Minerals.Zinc,Data.Vitamins.Vitamin A - RAE,Data.Vitamins.Vitamin B12,Data.Vitamins.Vitamin B6,Data.Vitamins.Vitamin C,Data.Vitamins.Vitamin E,Data.Vitamins.Vitamin K,desc_lower,food_group,egg_form,base_food
+Romaine lettuce,"romaine lettuce, raw",72116000,2.87,0,1.3,1.36,0.78,0.006,0.082,0.02,0.15,36,0.029,0.86,13.0,29,194.0,28,0.18,370,0.0,0.09,9.2,0.22,126.3,"romaine lettuce, raw",vegetable,,romaine lettuce
+Kale,"kale, raw",72119190,4.42,0,4.1,2.92,0.8,0.104,0.673,0.178,1.49,254,0.053,1.6,33.0,55,348.0,53,0.39,241,0.0,0.147,93.4,0.66,390.0,"kale, raw",vegetable,,kale
+Spinach,"spinach, raw",72125100,3.63,0,2.2,2.86,0.42,0.01,0.165,0.063,0.39,99,0.13,2.71,79.0,49,558.0,79,0.53,469,0.0,0.195,28.1,2.03,482.9,"spinach, raw",vegetable,,spinach
+Broccoli,"broccoli, raw",72201100,6.64,0,2.6,2.82,1.7,0.031,0.112,0.114,0.37,47,0.049,0.73,21.0,66,316.0,33,0.41,31,0.0,0.175,89.2,0.78,101.6,"broccoli, raw",vegetable,,broccoli
+Carrots,"carrots, raw",73101010,9.58,0,2.8,0.93,4.74,0.012,0.102,0.032,0.24,33,0.045,0.3,12.0,35,320.0,69,0.24,835,0.0,0.138,5.9,0.66,13.2,"carrots, raw",vegetable,,carrots
+Tomatoes,"tomatoes, raw",74101000,3.89,0,1.2,0.88,2.63,0.031,0.083,0.028,0.2,10,0.059,0.27,11.0,24,237.0,5,0.17,42,0.0,0.08,13.7,0.54,7.9,"tomatoes, raw",vegetable,,tomatoes
+Green beans,"green beans, raw",75101800,6.97,0,2.7,1.83,3.26,0.01,0.113,0.05,0.22,37,0.069,1.03,25.0,38,211.0,6,0.24,35,0.0,0.141,12.2,0.41,43.0,"green beans, raw",vegetable,,green beans
+Cabbage,"cabbage, green, raw",75103000,5.8,0,2.5,1.28,3.2,0.017,0.017,0.034,0.1,40,0.019,0.47,12.0,26,170.0,18,0.18,5,0.0,0.124,36.6,0.15,76.0,"cabbage, green, raw",vegetable,,cabbage
+Cucumber,"cucumber, raw",75111000,3.63,0,0.5,0.65,1.67,0.005,0.032,0.037,0.11,16,0.041,0.28,13.0,24,147.0,2,0.2,5,0.0,0.04,2.8,0.03,16.4,"cucumber, raw",vegetable,,cucumber
+Eggplant,"eggplant, raw",75111200,5.88,0,3.0,0.98,3.53,0.016,0.076,0.034,0.18,9,0.081,0.23,14.0,24,229.0,2,0.16,1,0.0,0.084,2.2,0.3,3.5,"eggplant, raw",vegetable,egg_whole,eggplant
+Lettuce,"lettuce, raw",75113000,2.92,0,1.2,1.13,1.38,0.006,0.078,0.019,0.14,27,0.027,0.64,10.0,24,168.0,19,0.16,198,0.0,0.066,6.0,0.2,75.2,"lettuce, raw",vegetable,,lettuce
+Green peas,"green peas, raw",75120000,14.45,0,5.7,5.42,5.67,0.035,0.187,0.071,0.4,25,0.176,1.47,33.0,108,244.0,5,1.24,38,0.0,0.169,40.0,0.13,24.8,"green peas, raw",vegetable,,green peas
+Pepper,"pepper, sweet, green, raw",75122100,4.64,0,1.7,0.86,2.4,0.008,0.062,0.058,0.17,10,0.066,0.34,10.0,20,175.0,3,0.13,18,0.0,0.224,80.4,0.37,7.4,"pepper, sweet, green, raw",vegetable,,pepper
+Radish,"radish, raw",75125000,3.4,0,1.6,0.68,1.86,0.017,0.048,0.032,0.1,25,0.05,0.34,10.0,20,233.0,39,0.28,0,0.0,0.071,14.8,0.0,1.3,"radish, raw",vegetable,,radish
+Grapefruit,"grapefruit, raw",61101010,10.66,0,1.6,0.77,6.89,0.02,0.036,0.021,0.14,22,0.032,0.08,9.0,18,135.0,0,0.07,58,0.0,0.053,31.2,0.13,0.0,"grapefruit, raw",fruit,,grapefruit
+Orange,"orange, raw",61119010,11.75,0,2.4,0.94,9.35,0.023,0.025,0.015,0.12,40,0.045,0.1,10.0,14,181.0,0,0.07,11,0.0,0.06,53.2,0.18,0.0,"orange, raw",fruit,,orange
+Apple,"apple, raw",63101000,13.81,0,2.4,0.26,10.39,0.007,0.051,0.028,0.17,6,0.027,0.12,5.0,11,107.0,1,0.04,3,0.0,0.041,4.6,0.18,2.2,"apple, raw",fruit,,apple
+Banana,"banana, raw",63107010,22.84,0,2.6,1.09,12.23,0.032,0.073,0.112,0.33,5,0.078,0.26,27.0,22,358.0,1,0.15,3,0.0,0.367,8.7,0.1,0.5,"banana, raw",fruit,,banana
+Cantaloupe,"cantaloupe, raw",63109010,8.16,0,0.8,0.82,7.88,0.003,0.081,0.051,0.18,9,0.085,0.38,13.0,17,157.0,30,0.44,232,0.0,0.04,10.9,0.05,2.7,"cantaloupe, raw",fruit,,cantaloupe
+Grapes,"grapes, raw",63123000,18.1,0,0.9,0.72,15.48,0.007,0.048,0.054,0.16,10,0.127,0.36,7.0,20,191.0,2,0.07,3,0.0,0.086,3.2,0.19,14.6,"grapes, raw",fruit,,grapes
+Honeydew melon,"honeydew melon, raw",63127010,9.09,0,0.8,0.54,8.12,0.003,0.059,0.038,0.14,6,0.024,0.17,10.0,11,228.0,18,0.09,3,0.0,0.088,18.0,0.02,2.9,"honeydew melon, raw",fruit,,honeydew melon
+Mango,"mango, raw",63129010,14.98,0,1.6,0.82,13.66,0.14,0.071,0.092,0.38,11,0.111,0.16,10.0,14,168.0,1,0.09,54,0.0,0.119,36.4,0.9,4.2,"mango, raw",fruit,,mango
+Papaya,"papaya, raw",63133010,10.82,0,1.7,0.47,7.82,0.072,0.058,0.081,0.26,20,0.045,0.25,21.0,10,182.0,8,0.08,47,0.0,0.038,60.9,0.3,2.6,"papaya, raw",fruit,,papaya
+Peach,"peach, raw",63135010,10.1,0,1.5,0.91,8.39,0.067,0.086,0.019,0.27,4,0.078,0.34,8.0,22,122.0,13,0.23,24,0.0,0.025,4.1,0.73,3.0,"peach, raw",fruit,,peach
+Pear,"pear, raw",63137010,15.23,0,3.1,0.36,9.75,0.084,0.094,0.022,0.14,9,0.082,0.18,7.0,12,116.0,1,0.1,1,0.0,0.029,4.3,0.12,4.4,"pear, raw",fruit,,pear
+Pineapple,"pineapple, raw",63141010,13.12,0,1.4,0.54,9.85,0.013,0.04,0.009,0.12,13,0.11,0.29,12.0,8,109.0,1,0.12,3,0.0,0.112,47.8,0.02,0.7,"pineapple, raw",fruit,,pineapple
+Plum,"plum, raw",63143010,11.42,0,1.4,0.7,9.92,0.134,0.044,0.017,0.28,6,0.057,0.17,7.0,16,157.0,0,0.1,17,0.0,0.029,9.5,0.26,6.4,"plum, raw",fruit,,plum
+Pomegranate,"pomegranate, raw",63145010,18.7,0,4.0,1.67,13.67,0.093,0.079,0.12,1.17,10,0.158,0.3,12.0,36,236.0,3,0.35,0,0.0,0.075,10.2,0.6,16.4,"pomegranate, raw",fruit,,pomegranate
+Watermelon,"watermelon, raw",63149010,7.55,0,0.4,0.61,6.2,0.037,0.05,0.016,0.15,7,0.042,0.24,10.0,11,112.0,1,0.1,28,0.0,0.045,8.1,0.05,0.1,"watermelon, raw",fruit,,watermelon
+Blackberries,"blackberries, raw",63201010,9.61,0,5.3,1.39,4.88,0.047,0.28,0.014,0.49,29,0.165,0.62,20.0,22,162.0,1,0.53,11,0.0,0.03,21.0,1.17,19.8,"blackberries, raw",fruit,,blackberries
+Blueberries,"blueberries, raw",63203010,14.49,0,2.4,0.74,9.96,0.047,0.146,0.028,0.33,6,0.057,0.28,6.0,12,77.0,1,0.16,3,0.0,0.052,9.7,0.57,19.3,"blueberries, raw",fruit,,blueberries
+Raspberries,"raspberries, raw",63219000,11.94,0,6.5,1.2,4.42,0.064,0.375,0.019,0.65,25,0.09,0.69,22.0,29,151.0,1,0.42,2,0.0,0.055,26.2,0.87,7.8,"raspberries, raw",fruit,,raspberries
+Strawberries,"strawberries, raw",63223020,7.68,0,2.0,0.67,4.89,0.043,0.155,0.015,0.3,16,0.048,0.41,13.0,24,153.0,1,0.14,1,0.0,0.047,58.8,0.29,2.2,"strawberries, raw",fruit,,strawberries
+Beef steak,"beef steak, broiled or baked, lean only eaten",21101130,0.0,81,0.0,29.23,0.0,2.926,0.333,2.643,6.75,16,0.083,2.38,23.0,238,371.0,387,5.77,1,1.98,0.676,0.0,0.3,1.5,"beef steak, broiled or baked, lean only eaten",animal_protein,,beef steak
+Beef,"beef, roast, roasted, lean only eaten",21401120,0.0,76,0.0,29.13,0.0,1.587,0.283,1.368,3.71,15,0.056,2.35,13.0,233,314.0,417,4.42,1,1.51,0.397,0.0,0.29,1.9,"beef, roast, roasted, lean only eaten",animal_protein,,beef
+Chicken breast,"chicken breast, baked, broiled, or roasted, skin not eaten, from raw",24122131,0.0,98,0.0,30.22,0.0,0.926,0.57,0.756,3.52,7,0.047,0.45,28.0,229,359.0,360,0.91,9,0.18,0.872,0.0,0.75,0.0,"chicken breast, baked, broiled, or roasted, skin not eaten, from raw",animal_protein,,chicken breast
+Chicken drumstick,"chicken drumstick, baked, broiled, or roasted, skin not eaten, from raw",24142301,0.0,129,0.0,24.1,0.0,2.168,1.195,1.496,5.67,11,0.074,1.13,22.0,199,254.0,358,2.54,6,0.38,0.405,0.0,0.18,3.5,"chicken drumstick, baked, broiled, or roasted, skin not eaten, from raw",animal_protein,,chicken drumstick
+Chicken thigh,"chicken thigh, baked, broiled, or roasted, skin not eaten, from raw",24152231,0.0,132,0.0,24.61,0.0,3.341,1.685,2.297,8.1,9,0.067,1.12,24.0,229,267.0,336,1.91,8,0.42,0.459,0.0,0.18,3.9,"chicken thigh, baked, broiled, or roasted, skin not eaten, from raw",animal_protein,,chicken thigh
+Salmon,"salmon, baked or broiled, no added fat",26137123,0.1,58,0.0,25.82,0.04,1.698,1.022,1.021,5.54,9,0.08,0.48,34.0,329,462.0,417,0.49,40,4.7,0.693,0.5,0.51,0.5,"salmon, baked or broiled, no added fat",animal_protein,,salmon
+Tuna,"tuna, fresh, baked or broiled, no added fat",26153122,0.1,49,0.0,30.73,0.04,0.146,0.185,0.217,0.62,6,0.046,0.97,44.0,350,557.0,379,0.47,20,2.36,1.058,0.5,0.3,0.1,"tuna, fresh, baked or broiled, no added fat",animal_protein,,tuna
+Shrimp,"shrimp, baked or broiled, no added fat",26319123,1.21,155,0.0,16.72,0.04,0.222,0.363,0.321,1.24,67,0.224,0.26,27.0,300,140.0,460,1.19,56,1.3,0.188,0.5,1.62,0.4,"shrimp, baked or broiled, no added fat",animal_protein,,shrimp
+Egg,"egg, whole, raw",31101010,0.72,372,0.0,12.56,0.37,3.658,1.911,3.126,9.51,56,0.072,1.75,12.0,198,138.0,142,1.29,160,0.89,0.17,0.0,1.05,0.3,"egg, whole, raw",animal_protein,egg_whole,egg
+Egg,"egg, white only, raw",31108010,0.73,0,0.0,10.9,0.71,0.0,0.0,0.0,0.17,7,0.023,0.08,11.0,15,163.0,166,0.03,0,0.09,0.005,0.0,0.0,0.0,"egg, white only, raw",animal_protein,egg_white,egg
+White beans,"white beans, from dried, no added fat",41101120,24.94,0,6.3,9.67,0.34,0.031,0.151,0.09,0.35,90,0.285,3.68,63.0,112,558.0,237,1.37,0,0.0,0.088,0.0,0.93,3.5,"white beans, from dried, no added fat",plant_protein,,white beans
+Black beans,"black beans, from dried, no added fat",41102020,23.57,0,8.6,8.81,0.32,0.047,0.23,0.138,0.54,27,0.208,2.09,70.0,139,353.0,232,1.11,0,0.0,0.065,0.0,0.86,3.3,"black beans, from dried, no added fat",plant_protein,,black beans
+Pinto beans,"pinto beans, from dried, no added fat",41104020,26.06,0,8.9,8.96,0.34,0.132,0.234,0.135,0.65,46,0.218,2.08,50.0,146,433.0,232,0.97,0,0.0,0.216,0.8,0.93,3.5,"pinto beans, from dried, no added fat",plant_protein,,pinto beans
+Kidney beans,"kidney beans, from dried, no added fat",41106020,22.66,0,7.4,8.62,0.32,0.039,0.273,0.072,0.5,28,0.241,2.92,45.0,141,401.0,233,1.06,0,0.0,0.113,1.1,0.03,8.4,"kidney beans, from dried, no added fat",plant_protein,,kidney beans
+Bread,"bread, whole grain white",51300050,43.91,0,9.2,10.66,5.0,0.393,0.973,0.63,2.15,684,0.149,4.89,26.0,103,127.0,478,0.95,0,0.0,0.08,0.0,0.38,7.7,"bread, whole grain white",carb,,bread
+Barley,"barley, no added fat",56200400,28.09,0,3.8,2.25,0.28,0.057,0.213,0.093,0.44,11,0.105,1.32,22.0,54,93.0,187,0.82,0,0.0,0.114,0.0,0.01,0.8,"barley, no added fat",carb,,barley
+Oatmeal,"oatmeal, regular or quick, made with water, no added fat",56203056,11.36,0,1.7,2.21,0.17,0.332,0.386,0.186,1.09,12,0.072,0.68,24.0,65,58.0,70,0.62,0,0.0,0.015,0.0,0.07,0.3,"oatmeal, regular or quick, made with water, no added fat",carb,,oatmeal
+Quinoa,"quinoa, no added fat",56204005,21.21,0,2.8,4.38,0.87,0.526,1.074,0.23,1.91,17,0.191,1.48,64.0,151,171.0,163,1.09,0,0.0,0.123,0.0,0.63,0.0,"quinoa, no added fat",carb,,quinoa
+Rice,"rice, white, cooked, no added fat",56205008,27.99,0,0.4,2.67,0.05,0.087,0.076,0.077,0.28,10,0.069,1.19,12.0,43,35.0,245,0.49,0,0.0,0.092,0.0,0.04,0.0,"rice, white, cooked, no added fat",carb,,rice
+Oat bran cereal,"oat bran cereal, cooked, no added fat",56208500,12.28,0,2.9,3.21,0.27,0.441,0.513,0.246,1.3,14,0.081,0.95,45.0,129,100.0,69,0.59,0,0.0,0.028,0.0,0.19,0.6,"oat bran cereal, cooked, no added fat",carb,,oat bran cereal
+Potato,"potato, roasted, from fresh, peel eaten, no added fat",71104050,21.07,0,2.2,2.49,1.18,0.003,0.057,0.034,0.13,15,0.118,1.08,28.0,70,533.0,164,0.36,1,0.0,0.31,9.6,0.04,2.0,"potato, roasted, from fresh, peel eaten, no added fat",carb,,potato
+Sweet potato,"sweet potato, baked, peel eaten, no added fat",73402010,21.83,0,3.5,2.11,6.21,0.002,0.089,0.051,0.15,38,0.192,0.99,28.0,56,478.0,182,0.33,912,0.0,0.3,19.2,0.68,2.3,"sweet potato, baked, peel eaten, no added fat",carb,,sweet potato
+Chestnuts,chestnuts,42105000,52.96,0,5.1,3.17,10.6,0.759,0.869,0.414,2.2,29,0.507,0.91,33.0,107,592.0,2,0.57,1,0.0,0.497,26.0,0.5,7.8,chestnuts,fat,,chestnuts
+Hazelnuts,hazelnuts,42107000,16.7,0,9.7,14.95,4.34,45.652,7.92,4.464,60.75,114,1.725,4.7,163.0,290,680.0,0,2.45,1,0.0,0.563,6.3,15.03,14.2,hazelnuts,fat,,hazelnuts
+Pistachio nuts,"pistachio nuts, unsalted",42114145,27.43,0,10.0,20.42,7.51,25.054,14.181,5.886,47.44,104,1.254,3.91,106.0,455,977.0,6,2.27,13,0.0,1.088,2.9,2.46,16.3,"pistachio nuts, unsalted",fat,,pistachio nuts
+Pumpkin seeds,"pumpkin seeds, unsalted",43101150,14.71,0,6.5,29.84,1.29,15.734,19.856,8.544,49.05,52,1.275,8.07,550.0,1174,788.0,18,7.64,0,0.0,0.1,1.8,0.56,4.5,"pumpkin seeds, unsalted",fat,,pumpkin seeds
+Flax seeds,flax seeds,43104000,28.88,0,27.3,18.29,1.55,7.527,28.73,3.663,42.16,255,1.22,5.73,392.0,642,813.0,30,4.34,0,0.0,0.473,0.6,0.31,4.3,flax seeds,fat,,flax seeds
+Avocado,"avocado, raw",63105010,8.53,0,6.7,2.0,0.66,9.799,1.816,2.126,14.66,12,0.19,0.55,29.0,52,485.0,7,0.64,7,0.0,0.257,10.0,2.07,21.0,"avocado, raw",fat,,avocado
+Olive oil,olive oil,82104000,0.0,0,0.0,0.0,0.0,72.961,10.523,13.808,100.0,1,0.0,0.56,0.0,0,1.0,2,0.0,0,0.0,0.0,0.0,14.35,60.2,olive oil,fat,,olive oil
+Milk,"milk, reduced fat (2%)",11112110,4.91,8,0.0,3.35,4.89,0.4,0.058,1.11,1.9,126,0.001,0.0,12.0,103,159.0,39,0.43,83,0.55,0.061,0.2,0.03,0.2,"milk, reduced fat (2%)",diary,,milk
+Milk,"milk, low fat (1%)",11112210,5.19,5,0.0,3.38,4.96,0.21,0.032,0.568,0.95,126,0.001,0.0,12.0,103,159.0,39,0.43,58,0.61,0.06,0.0,0.02,0.1,"milk, low fat (1%)",diary,,milk
+Milk,"milk, fat free (skim)",11113000,4.89,3,0.0,3.43,5.05,0.017,0.006,0.049,0.08,132,0.002,0.0,12.0,107,167.0,41,0.45,64,0.58,0.058,0.0,0.0,0.0,"milk, fat free (skim)",diary,,milk
+Milk,"milk, lactose free, low fat (1%)",11114300,5.19,5,0.0,3.38,4.96,0.21,0.032,0.568,0.95,126,0.001,0.0,12.0,103,159.0,39,0.43,58,0.61,0.06,0.0,0.02,0.1,"milk, lactose free, low fat (1%)",diary,,milk
+Goat's milk,"goat's milk, whole",11116000,4.45,11,0.0,3.56,4.45,1.109,0.149,2.667,4.14,134,0.046,0.05,14.0,111,204.0,50,0.3,57,0.07,0.046,1.3,0.07,0.3,"goat's milk, whole",diary,,goat's milk
+Almond milk,"almond milk, unsweetened",11350020,1.31,0,0.2,0.4,0.81,0.59,0.24,0.08,0.96,184,0.02,0.28,6.0,9,67.0,72,0.06,90,0.0,0.0,0.0,2.81,0.0,"almond milk, unsweetened",diary,,almond milk
+Yogurt,"yogurt, low fat milk, plain",11411200,7.04,6,0.0,5.25,7.04,0.426,0.044,1.0,1.55,183,0.013,0.08,17.0,144,234.0,70,0.89,14,0.56,0.049,0.8,0.03,0.2,"yogurt, low fat milk, plain",diary,,yogurt
+Yogurt,"yogurt, nonfat milk, plain",11411300,7.68,2,0.0,5.73,7.68,0.049,0.005,0.116,0.18,199,0.015,0.09,19.0,157,255.0,77,0.97,2,0.61,0.053,0.9,0.0,0.2,"yogurt, nonfat milk, plain",diary,,yogurt
+Yogurt,"yogurt, greek, low fat milk, plain",11411410,3.94,10,0.0,9.95,3.56,0.486,0.076,1.23,1.92,115,0.021,0.04,11.0,137,141.0,34,0.6,90,0.52,0.055,0.8,0.04,0.2,"yogurt, greek, low fat milk, plain",diary,,yogurt
+Cheese,"cheese, cheddar, reduced fat",14104110,2.67,76,0.0,27.35,0.26,5.304,0.893,12.602,20.41,761,0.043,0.12,27.0,520,63.0,628,4.44,145,1.41,0.084,0.0,0.48,1.5,"cheese, cheddar, reduced fat",diary,,cheese
+Cheese,"cheese, feta",14104400,3.88,89,0.0,14.21,0.0,4.623,0.591,13.3,21.49,493,0.032,0.65,19.0,337,62.0,1139,2.88,125,1.69,0.424,0.0,0.18,1.8,"cheese, feta",diary,,cheese
+Cheese,"cheese, mozzarella, part skim",14107030,4.44,65,0.0,23.7,1.81,4.65,0.744,11.7,20.4,693,0.035,0.2,27.0,533,116.0,699,3.62,203,1.65,0.09,0.0,0.51,1.3,"cheese, mozzarella, part skim",diary,,cheese
+Cheese,"cheese, ricotta",14201500,6.0,40,0.0,9.6,0.29,2.437,0.324,5.948,9.46,248,0.017,0.27,17.0,172,178.0,102,0.95,117,0.54,0.06,0.0,0.17,0.6,"cheese, ricotta",diary,,cheese
+Vegetable,"zucchini, raw",75111000,3.63,0,0.6,0.65,1.67,0.005,0.032,0.037,0.11,16,0.041,0.28,13.0,24,161.70000000000002,2,0.2,5,0.0,0.04,2.8,0.03,16.4,"zucchini, raw",vegetable,,zucchini
+Fat,"walnuts, raw",43104000,28.88,0,27.3,18.29,1.55,7.527,40.222,3.663,42.16,255,1.22,5.73,470.4,642,813.0,30,4.34,0,0.0,0.473,0.6,0.31,4.3,"walnuts, raw",fat,,walnuts
+Fat,"almonds, raw",42114145,27.43,0,10.0,26.546000000000003,7.51,25.054,14.181,5.886,47.44,104,1.254,3.91,159.0,455,977.0,6,2.27,13,0.0,1.088,2.9,2.46,16.3,"almonds, raw",fat,,almonds
