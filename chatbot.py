@@ -1,18 +1,38 @@
 import os
 from datetime import datetime
 from dotenv import load_dotenv
-import google.generativeai as genai
+from openai import OpenAI
 
 load_dotenv()
 
-api_key = os.getenv("GEMINI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 
 if not api_key:
-    raise ValueError("GEMINI_API_KEY is missing. Check your .env file.")
+    raise ValueError("OPENAI_API_KEY is missing. Check your .env file.")
 
-genai.configure(api_key=api_key)
+client = OpenAI(api_key=api_key)
 
-model = genai.GenerativeModel("gemini-2.5-flash-lite")
+
+def generate_ai_response(prompt):
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.4,
+            max_tokens=500
+        )
+
+        answer = response.choices[0].message.content
+
+        if not answer:
+            return "Sorry, I couldn't generate a response. Can you try again?"
+
+        return answer.strip()
+
+    except Exception as e:
+        return f"Chatbot error: {str(e)}"
 
 
 def get_value(context, *keys, default=None):
@@ -161,12 +181,21 @@ Rules:
 """
 
     try:
-        response = model.generate_content(prompt)
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.4,
+            max_tokens=500
+        )
 
-        if not response.text:
+        answer = response.choices[0].message.content
+
+        if not answer:
             return "Sorry, I couldn't generate a response. Can you try again?"
 
-        return response.text.strip()
+        return answer.strip()
 
     except Exception as e:
         return f"Chatbot error: {str(e)}"
