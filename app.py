@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 from recommendation_engine import get_recommendation, get_recommendation_response
 from chatbot import get_chat_response
 from datetime import datetime
+import os
 
 app = Flask(__name__)
 
