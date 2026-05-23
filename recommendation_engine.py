@@ -2514,6 +2514,7 @@ def calculate_meal_calories(day_plan, df, recommended):
 
         for food in foods:
             base_calories = get_food_calories(food, df)
+
             if base_calories is None:
                 continue
 
@@ -2525,15 +2526,17 @@ def calculate_meal_calories(day_plan, df, recommended):
         meal_calories[meal_name] = round(meal_total)
         total_day += meal_total
 
-    return {
-        "breakfast": round(meal_calories.get("breakfast", 0)),
-        "lunch": round(meal_calories.get("lunch", 0)),
-        "snack": round(meal_calories.get("snack", 0)),
-        "dinner": round(meal_calories.get("dinner", 0)),
-        "total_day_calories": round(total_day),
-        "note": "Calories are estimated based on approximate portions."
-    }
+    total_day = round(total_day)
 
+    note = "Calories are estimated based on meal composition, portion distribution, and nutritional balance."
+
+    if total_day < 1200:
+        note += " Calories are low for a full daily meal plan. Consider increasing portions or adding a balanced snack."
+
+    meal_calories["total_day_calories"] = total_day
+    meal_calories["note"] = note
+
+    return meal_calories
 
 def display_meal_calories(day_plan, df, recommended):
     total_day = 0
